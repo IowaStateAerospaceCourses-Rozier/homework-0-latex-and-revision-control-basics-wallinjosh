@@ -81,15 +81,15 @@ While Markdown is great for README files, and for general communication and nota
 
 For this last part of Homework 0, you will need to use your git skills to check out a homework template from Github, make modifications in LaTeX, and compile a final PDF of your assignment for submission.
 
-- [ ] Check out the basic LaTeX template from git:
+- [X] Check out the basic LaTeX template from git:
   https://github.com/IowaStateAerospaceCourses-Rozier/LaTeXHomeworkTemplate
-- [ ] Bookmark the
+- [X] Bookmark the
   [wikibook](https://en.wikibooks.org/wiki/LaTeX)
   on LaTeX, it answers any question you are likely to have, including very advanced ones.  Don't try and read the whole thing today, it's very long!
-- [ ] Bookmark the LaTeX
+- [X] Bookmark the LaTeX
   [cheat sheet](http://www.ctan.org/tex-archive/info/latexcheat/latexcheat/latexsheet.pdf),
   it will come in handy!
-- [ ] Make sure you have LaTeX
+- [X] Make sure you have LaTeX
   [installed](https://en.wikibooks.org/wiki/LaTeX/Installation)
   on your machine.  It is available for all operating systems.  Some people prefer to work with LaTeX
   [online](https://en.wikibooks.org/wiki/LaTeX/Installation#Online_solutions)
@@ -108,8 +108,8 @@ Below this you will find a section you can tailor for your assignment in the for
 
 Read the [basics](https://en.wikibooks.org/wiki/LaTeX/Basics) section of the LaTeX wikibook to learn about the commands in this homework template.
 
-- [ ] Compile your new document as a PDF.
-- [ ] Commit the changed file to your repository.  Make sure to push your changes!
+- [X] Compile your new document as a PDF.
+- [X] Commit the changed file to your repository.  Make sure to push your changes!
 
 Lastly...
 
