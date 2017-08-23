@@ -31,3 +31,12 @@ git push origin myBranch
 
 where myBranch is the user's working *branch* (a separate copy of the files contained in
   the repo that may be changed without affecting the primary working version for other users).
+
+## Good documentation
+
+Successful projects, even those completed by a single person, require complete 
+documentation. The true hallmark of good documentation is twofold: all aspects of the system
+need to be discussed in a way that eliminates ambiguity and increases understanding, while also
+evolving as the system changes to encapsulate data found only from use. LaTeX and Git support
+this goal by providing a typesetting system for capturing technical information, as well as
+a version tracking system to store and distribute updates.
