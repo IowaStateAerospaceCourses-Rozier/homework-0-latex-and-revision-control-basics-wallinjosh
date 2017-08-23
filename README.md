@@ -72,7 +72,7 @@ Since we will be using git for all assignments in this class, it will be importa
 
 Markdown was originally developed by John Gruber of [Daring Fireball](daringfireball.net), he's written about markdown [here](http://daringfireball.net/projects/markdown/).
 
-- [ ] Create a new directory for a markdown assignment, and create a basic markdown file in it.  Include a short discussion of the git workflow, with separate sections for git, and the importance of good documentation.  Include git commands formatted as code/syntax to show the basics of the git workflow.
+- [X] Create a new directory for a markdown assignment, and create a basic markdown file in it.  Include a short discussion of the git workflow, with separate sections for git, and the importance of good documentation.  Include git commands formatted as code/syntax to show the basics of the git workflow.
 
 
 ## Learn LaTeX
@@ -113,4 +113,4 @@ Read the [basics](https://en.wikibooks.org/wiki/LaTeX/Basics) section of the LaT
 
 Lastly...
 
-- [ ] Create a pull request for your branch! (You did remember to build a branch didn't you?)
+- [X] Create a pull request for your branch! (You did remember to build a branch didn't you?)
