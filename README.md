@@ -12,12 +12,12 @@
 
 |Deliverable | Points Awarded | Maximum Points |
 |---|---|---|
-| Basic Branch | | 5 |
-| Grok Git | | 5 |
-| Master Markdown | | 5 |
-| Learn LaTeX | | 5 |
-| Total Score | | 20 |
-| Slip days used | | |
+| Basic Branch | 5 | 5 |
+| Grok Git | 5 | 5 |
+| Master Markdown | 5 | 5 |
+| Learn LaTeX | 5 | 5 |
+| Total Score | 20 | 20 |
+| Slip days used | 0 | |
 
 
 ## Introduction
